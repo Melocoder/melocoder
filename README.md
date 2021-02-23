@@ -1,5 +1,7 @@
 ### Hey Yo!. 👋🏼 I'm Melody Onyeocha!
-[Twitter](https://twitter.com/Melocoder) [LinkedIn](https://www.linkedin.com/in/melodyonyeocha/) [Dribbble](https://dribbble.com/Melocoder)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melodyonyeocha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/melocoder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/melocoder)  
+
 
 I'm a frontend developer and a creative designer.
 
